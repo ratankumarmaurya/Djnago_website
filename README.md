@@ -1,6 +1,7 @@
 # Djnago_website
-ProjectName <first>
-Open <First> name Folder
+
+
+ Main Folder Name first
 
 Extract All File 
 
